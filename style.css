@@ -2,8 +2,12 @@ h1 {
     text-align: center;
 }
 
+.container {
+    width: 600px;
+    margin: auto;
+}
 
 .bold{
-    font-weight: bold
+    font-weight: bold;
 }
 
