@@ -1,9 +1,10 @@
-h1 {
-    text-align: center;
-}
-
-
 .bold{
-    font-weight: bold
+    font-weight: bold;
 }
 
+.red{
+    color: red;
+}
+h1{
+    font-size: large;
+}
