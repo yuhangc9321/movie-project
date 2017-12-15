@@ -1,9 +1,16 @@
 
-h1 {
-    text-align: center;
+
+
+#bg {
+    position: absolute;
 }
+hr {
+    width: 75%;
+}
+
+
 .container {
-    width: 600px;
+    width: 650px;
     margin: auto;
 }
 
