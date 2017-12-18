@@ -2,7 +2,9 @@ h1{
     font-family: 'Megrim', cursive;
     text-align: center;
     color: firebrick;
+
 }
+
 hr {
     width: 100%;
 }
@@ -12,9 +14,10 @@ hr {
     margin: auto;
 }
 
-.bold{
+.bold {
     font-weight: bold;
 }
+
 .red{
     color:red;
 }
@@ -41,7 +44,7 @@ input{
     margin-top: 10px;
     margin-right: 200px;
 }
-.fire-button {
+#fire-button {
     border-radius: 28px;
     font-family: Arial;
     color: white;
