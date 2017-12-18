@@ -27,7 +27,8 @@ hr {
 }
 img{
     float: right;
-    margin-right: 100px
+    
+    padding-right: 50px
 }
 body {
     background-image: url("starnight.jpg");
@@ -36,4 +37,14 @@ input{
     font-size: 20px;
     margin-top: 10px;
     margin-right: 200px;
+}
+.fire-button {
+    border-radius: 28px;
+    font-family: Arial;
+    color: white;
+    font-size: 10px;
+    background: firebrick;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    height: 30px;
 }
