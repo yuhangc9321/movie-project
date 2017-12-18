@@ -1,9 +1,7 @@
-
-
-
 #bg {
     position: absolute;
 }
+
 hr {
     width: 75%;
 }
@@ -14,19 +12,22 @@ hr {
     margin: auto;
 }
 
-.bold{
+.bold {
     font-weight: bold;
 }
 
-.red{
+.red {
     color: red;
 }
 
-img{
-    float: righr;
+img {
+    float: right;
 }
 
-body {
+.container {
     background-image: url("cosmos-2499108_960_720.jpg");
-  }
+}
 
+h1 {
+    color: blue;
+}
