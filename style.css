@@ -1,13 +1,12 @@
 
 
 
-#bg {
+/*#bg {
     position: absolute;
-}
+}*/
 hr {
     width: 75%;
 }
-
 
 .container {
     width: 650px;
@@ -19,8 +18,16 @@ hr {
 }
 
 .red{
-    color: red;
+    color:blue;
+}
+ p{
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+	width: 280px;
+	float:left;
+	
 }
 img{
-    float: center;
+    float: right;
+    margin-right: 100px
 }
