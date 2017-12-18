@@ -1,11 +1,10 @@
-
-
-
 h1{
-    color: white;
+    font-family: 'Megrim', cursive;
+    text-align: center;
+    color: firebrick;
 }
 hr {
-    width: 75%;
+    width: 100%;
 }
 
 .container {
@@ -16,25 +15,25 @@ hr {
 .bold{
     font-weight: bold;
 }
-
 .red{
     color:red;
 }
-
  p{
-	font-family: Verdana, sans-serif;
+	font-family: 'Roboto Slab', cursive;
 	font-size: 20px;
 	width: 280px;
 	float:left;
 	color:white;
-	
 }
 img{
     float: right;
     margin-right: 100px
 }
-
 body {
-    background-image: url("cosmos-2499108_960_720.jpg");
+    background-image: url("starnight.jpg");
   }
-
+input{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 200px;
+}
