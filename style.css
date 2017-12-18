@@ -18,6 +18,9 @@ hr {
 .red{
     color:red;
 }
+.pink{
+    color:pink;
+}
  p{
 	font-family: 'Roboto Slab', cursive;
 	font-size: 20px;
@@ -27,7 +30,7 @@ hr {
 }
 img{
     float: right;
-    
+    margin-top: 10px;
     padding-right: 50px
 }
 body {
@@ -47,4 +50,7 @@ input{
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     height: 30px;
+    position: relative;
+    left:220px;
+    bottom:40px;
 }
