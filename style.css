@@ -44,7 +44,7 @@ input{
     margin-top: 10px;
     margin-right: 200px;
 }
-.fire-button {
+#fire-button {
     border-radius: 28px;
     font-family: Arial;
     color: white;
@@ -56,5 +56,4 @@ input{
     position: relative;
     left:220px;
     bottom:40px;
-
 }
