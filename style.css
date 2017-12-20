@@ -10,7 +10,7 @@ hr {
 }
 
 .container {
-    width: 650px;
+    width: 50px;
     margin: auto;
 }
 
@@ -37,7 +37,8 @@ img{
     padding-right: 50px
 }
 body {
-    background-image: url("spacebackground.jpg");
+    background-image: url("moonman.jpeg");
+    
   }
 input{
     font-size: 20px;
