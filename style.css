@@ -2,7 +2,7 @@ h1{
     font-family: 'Megrim', cursive;
     text-align: center;
     color: firebrick;
-    font-size: 200%;
+
 }
 
 hr {
@@ -10,7 +10,7 @@ hr {
 }
 
 .container {
-    width: 50px;
+    width: 650px;
     margin: auto;
 }
 
